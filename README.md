@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fmaur
-- 👀 I’m interested in PowerShell and JS.
-- 🌱 I’m currently learning PowerShell
+- 👀 I’m interested in Python & JS
+- 🌱 I’m currently learning Microsoft Bicep & Docker
